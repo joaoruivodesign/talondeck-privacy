@@ -52,7 +52,3 @@ version at this URL.
 ## Contact
 
 Questions about this policy? Contact us at: talondeck@gmail.com
-
-> Before publishing: replace the contact email above, confirm the "last updated"
-> date, host this file at a public HTTPS URL, and set that same URL in
-> `TalonDeck/App/LegalLinks.swift` (`privacyPolicy`) and in App Store Connect.
